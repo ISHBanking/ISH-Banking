@@ -1,0 +1,23 @@
+<!-- <!DOCTYPE html>
+<html lang="pt_BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Kirito List</title>
+</head>
+<body>
+  <form>
+    <div>
+      <label><input class="pristine" type="checkbox" name="A"><span>Pagina Inicial (index.php) Adicionada na aplicação</span></label>
+    </div>
+      <label><input class="pristine" type="checkbox" name="B"><span>Pagina de Calendario (calendar.php) Removida da aplicação</span></label>
+    </div>
+    <div>
+      <label><input class="pristine" type="checkbox" name="C"><span>Pagina de acesso ao Dashboard (bank_login.php) adicionada na aplicação</span></label>
+    </div>
+  </form>
+  <script src="index.js"></script>
+</body>
+</html> -->
